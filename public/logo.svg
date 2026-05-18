@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Hearing Hope</title>
+  <defs>
+    <linearGradient id="hhGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="8" width="32" height="32" rx="8" fill="url(#hhGrad)"/>
+  <path d="M10 24c0-3.3 2.7-6 6-6s6 2.7 6 6-2.7 6-6 6" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="16" cy="24" r="2" fill="#b91c1c"/>
+  <text x="42" y="22" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#0f172a">Hearing Hope</text>
+  <text x="42" y="38" font-family="system-ui,Segoe UI,sans-serif" font-size="9" font-weight="600" fill="#64748b">Hope Digital Innovations</text>
+</svg>
