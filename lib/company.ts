@@ -1,5 +1,5 @@
 /** Company legal name (footer, trust copy, metadata). */
-export const COMPANY_LEGAL_NAME = "Hope Digital Innovations Pvt Ltd";
+export const COMPANY_LEGAL_NAME = "Hope Digital Innovations Private Limited";
 
 /** Rohini address — same location is a studio center and the company mailing address. */
 export const COMPANY_ADDRESS_LINES = [
